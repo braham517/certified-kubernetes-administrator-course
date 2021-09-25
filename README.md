@@ -103,9 +103,7 @@
   
 
 - [07-Security](docs/07-Security)
-  
-  - [01-Security-Section-Introduction](docs/07-Security/01-Security-Section-Introduction.md)
-  - [02-Kubernetes-Security-Primitives](docs/07-Security/02-Kubernetes-Security-Primitives.md)
+  - [01-Kubernetes-Security-Primitives](docs/07-Security/02-Kubernetes-Security-Primitives.md)
   - [03-Authentication](docs/07-Security/03-Authentication.md)
   - [04-TLS-Certificates](docs/07-Security/04-TLS-Certificates.md)
   - [05-TLS-Basics](docs/07-Security/05-TLS-Basics.md)
