@@ -1,7 +1,5 @@
 # Resource Limits
-  - Take me to [Video Tutorials](https://kodekloud.com/topic/resource-limits/)
-  
-In this section we will take a look at Resource Limits
+ 
 
 #### Let us take a look at 3 node kubernetes cluster.
 - Each node has a set of CPU, Memory and Disk resources available.
@@ -11,6 +9,7 @@ In this section we will take a look at Resource Limits
   
 ## Resource Requirements
 - By default, K8s assume that a pod or container within a pod requires **`0.5`** CPU and **`256Mi`** of memory. This is known as the **`Resource Request` for a container**.
+- **Note: 1 CPU means 1 AWS vCPU or 1 GCP Core or 1 Azure Core or 1 Hyperthread.**
   
   ![rr](../../images/rr.PNG)
   
