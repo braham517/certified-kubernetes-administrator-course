@@ -46,7 +46,6 @@
   - [10-Practice-Test-Node-Affinity](docs/03-Scheduling/10-Practice-Test-Node-Affinity.md)
   - [11.Taints-and-Tolerations-vs-Node-Affinity](docs/03-Scheduling/11.Taints-and-Tolerations-vs-Node-Affinity.md)
   - [12-Resource-Limits](docs/03-Scheduling/12-Resource-Limits.md)
-  - [13-Practice-Test-Resource-Limits](docs/03-Scheduling/13-Practice-Test-Resource-Limits.md)
   - [14-DaemonSets](docs/03-Scheduling/14-DaemonSets.md)
   - [15-Practice-Test-DaemonSets](docs/03-Scheduling/15-Practice-Test-DaemonSets.md)
   - [16-Static-Pods](docs/03-Scheduling/16-Static-Pods.md)
