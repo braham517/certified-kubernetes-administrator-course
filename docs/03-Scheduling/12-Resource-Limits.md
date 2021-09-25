@@ -34,7 +34,36 @@
         cpu: "1"
   ```
   ![rr-pod](../../images/rr-pod.PNG) 
-   
+  
+- Note: These default value must be set before and can be changes also.
+ ```
+ apiVersion: v1
+kind: LimitRange
+metadata:
+  name: mem-limit-range
+spec:
+  limits:
+  - default:
+      memory: 512Mi
+    defaultRequest:
+      memory: 256Mi
+    type: Container
+```
+
+```
+apiVersion: v1
+kind: LimitRange
+metadata:
+  name: cpu-limit-range
+spec:
+  limits:
+  - default:
+      cpu: 1
+    defaultRequest:
+      cpu: 0.5
+    type: Container
+    ```
+  
 ## Resources - Limits
 - By default, k8s sets resource limits to 1 CPU and 512Mi of memory
   
