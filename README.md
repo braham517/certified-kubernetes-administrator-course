@@ -39,7 +39,7 @@
 - [03-Scheduling](docs/03-Scheduling)
 
   - [01-Manual-Scheduling](docs/03-Scheduling/02-Manual-Scheduling.md)
-  - [04-Labels-and-Selectors](docs/03-Scheduling/04-Labels-and-Selectors.md)
+  - [04-Labels-Annotations-and-Selectors](docs/03-Scheduling/04-Labels-and-Selectors.md)
   - [05-Practice-Test-Scheduling](docs/03-Scheduling/05-Practice-Test-Scheduling.md)
   - [06-Taints-and-Tolerations](docs/03-Scheduling/06-Taints-and-Tolerations.md)
   - [07-Practice-Test-Taints-and-Tolerations](docs/03-Scheduling/07-Practice-Test-Taints-and-Tolerations.md)
