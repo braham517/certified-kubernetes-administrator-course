@@ -38,8 +38,7 @@
 
 - [03-Scheduling](docs/03-Scheduling)
 
-  - [01-Scheduling-Section-Introduction](docs/03-Scheduling/01-Scheduling-Section-Introduction.md)
-  - [02-Manual-Scheduling](docs/03-Scheduling/02-Manual-Scheduling.md)
+  - [01-Manual-Scheduling](docs/03-Scheduling/02-Manual-Scheduling.md)
   - [03-Practice-Test-Manual-Scheduling](docs/03-Scheduling/03-Practice-Test-Manual-Scheduling.md)
   - [04-Labels-and-Selectors](docs/03-Scheduling/04-Labels-and-Selectors.md)
   - [05-Practice-Test-Scheduling](docs/03-Scheduling/05-Practice-Test-Scheduling.md)
