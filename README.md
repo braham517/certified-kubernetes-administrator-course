@@ -28,6 +28,8 @@
   - [16-Practice-Tests-Deployments](docs/02-Core-Concepts/16-Practice-Tests-Deployments.md)
   - [17-Namespaces](docs/02-Core-Concepts/17-Namespaces.md)
   - [18-Practice-Test-Namespaces](docs/02-Core-Concepts/18-Practice-Test-Namespaces.md)
+  
+# Networking
   - [19-Services](docs/02-Core-Concepts/19-Services.md)
   - [20-Services-ClusterIP](docs/02-Core-Concepts/20-Services-ClusterIP.md)
   - [21-Practice-Test-Services](docs/02-Core-Concepts/21-Practice-Test-Services.md)
