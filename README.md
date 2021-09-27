@@ -32,10 +32,7 @@
 ## Networking
    - [1-Services](docs/02-Core-Concepts/19-Services.md)
    - [2-Services-ClusterIP](docs/02-Core-Concepts/20-Services-ClusterIP.md)
-   - [3-Practice-Test-Services](docs/02-Core-Concepts/21-Practice-Test-Services.md)
-   - [4-Imperative-Commands-with-kubectl](docs/02-Core-Concepts/22-Imperative-Commands-with-kubectl.md)
-   - [5-Practice-Test-Imperative-Commands](docs/02-Core-Concepts/23-Practice-Test-Imperative-Commands.md)
-   - [6-Attachments](docs/02-Core-Concepts/24-Attachments.md)
+   - [3-Attachments](docs/02-Core-Concepts/24-Attachments.md)
   
 
 - [03-Scheduling](docs/03-Scheduling)
